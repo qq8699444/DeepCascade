@@ -15,6 +15,10 @@ The difference written by me is in
 >src/applications/objects_detection_lib/TestObjectsDetectionApplication.hpp
 
 and so on, look for "sylar" to see my trace
+
+DeepCascade is in src/applications/objects_detection_lib
+>./test_monocular_objects_detection_lib
+
 # Original Library: Rodrigo Benenson / doppia #
 This is [release v2](https://bitbucket.org/rodrigob/doppia/src/tip/?at=v2) of the doppia code, code should work, please report any issue.
 
