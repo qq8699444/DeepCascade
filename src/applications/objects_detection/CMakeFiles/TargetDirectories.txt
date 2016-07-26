@@ -1,0 +1,3 @@
+/home/sylar/doppia/src/applications/objects_detection/CMakeFiles/cpp_stuff_library.dir
+/home/sylar/doppia/src/applications/objects_detection/CMakeFiles/cuda_stuff_library.dir
+/home/sylar/doppia/src/applications/objects_detection/CMakeFiles/objects_detection.dir

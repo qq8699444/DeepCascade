@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/train.dir/train.c.o  -o train -rdynamic liblinear.so libblas.so -Wl,-rpath,/home/sylar/doppia/libs/liblinear-1.8 

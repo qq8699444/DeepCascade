@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/boosted_learning.dir/boosted_learning.cpp.o"
+  "CMakeFiles/boosted_learning.dir/BoostedLearningApplication.cpp.o"
+  "CMakeFiles/boosted_learning.dir/integral_channels_helpers.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/applications/AbstractGui.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/applications/AbstractApplication.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/applications/BaseApplication.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/applications/EmptyGui.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/WeakClassifier.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/ModelIO.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/Feature.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/DecisionStump.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/LabeledData.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/TrainingData.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/WeakClassifierDecisionTree.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/ImageData.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/WeakLearner.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/AdaboostLearner.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/StrongClassifier.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/DecisionTreeNode.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/WeakClassifierStumpSet.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/objects_detection/detections.pb.cc.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/objects_detection/detector_model.pb.cc.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/objects_detection/integral_channels/IntegralChannelsForPedestrians.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/objects_detection/integral_channels/IntegralChannelsComputerFactory.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/objects_detection/integral_channels/AbstractIntegralChannelsComputer.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/boosted_learning/cnn/classification.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/helpers/any_to_string.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/helpers/Log.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/helpers/ModuleLog.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/helpers/replace_environment_variables.cpp.o"
+  "CMakeFiles/boosted_learning.dir/home/sylar/doppia/src/helpers/progress_display_with_eta.cpp.o"
+  "boosted_learning.pdb"
+  "boosted_learning"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/boosted_learning.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

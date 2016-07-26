@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/blas.h
+blasp.h
+/home/sylar/doppia/libs/liblinear-1.8/blas/blasp.h
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/blasp.h
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/daxpy.c
+blas.h
+/home/sylar/doppia/libs/liblinear-1.8/blas/blas.h
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/ddot.c
+blas.h
+/home/sylar/doppia/libs/liblinear-1.8/blas/blas.h
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/dnrm2.c
+math.h
+-
+blas.h
+/home/sylar/doppia/libs/liblinear-1.8/blas/blas.h
+
+/home/sylar/doppia/libs/liblinear-1.8/blas/dscal.c
+blas.h
+/home/sylar/doppia/libs/liblinear-1.8/blas/blas.h
+

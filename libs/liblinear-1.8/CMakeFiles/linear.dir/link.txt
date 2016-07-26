@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -O3 -DNDEBUG -Wall -DNDEBUG -DBOOST_DISABLE_ASSERTS -fopenmp -ffast-math -funroll-loops -march=native   -shared -Wl,-soname,liblinear.so -o liblinear.so CMakeFiles/linear.dir/tron.cpp.o CMakeFiles/linear.dir/linear.cpp.o libblas.so -Wl,-rpath,/home/sylar/doppia/libs/liblinear-1.8 

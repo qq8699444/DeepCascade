@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libblas.so -o libblas.so CMakeFiles/blas.dir/blas/ddot.c.o CMakeFiles/blas.dir/blas/dnrm2.c.o CMakeFiles/blas.dir/blas/daxpy.c.o CMakeFiles/blas.dir/blas/dscal.c.o 

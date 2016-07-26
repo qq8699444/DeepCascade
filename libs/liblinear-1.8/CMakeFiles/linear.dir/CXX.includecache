@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sylar/doppia/libs/liblinear-1.8/linear.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+linear.h
+/home/sylar/doppia/libs/liblinear-1.8/linear.h
+tron.h
+/home/sylar/doppia/libs/liblinear-1.8/tron.h
+
+/home/sylar/doppia/libs/liblinear-1.8/linear.h
+
+/home/sylar/doppia/libs/liblinear-1.8/tron.cpp
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+tron.h
+/home/sylar/doppia/libs/liblinear-1.8/tron.h
+
+/home/sylar/doppia/libs/liblinear-1.8/tron.h
+

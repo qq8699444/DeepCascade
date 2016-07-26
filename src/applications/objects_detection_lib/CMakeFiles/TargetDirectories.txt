@@ -1,0 +1,9 @@
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/cuda_stuff_library.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/monocular_objects_detection.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/monocular_objects_detection_with_ui.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/objects_detection.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/objects_detection_with_ui.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/test_monocular_objects_detection_lib.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/test_monocular_objects_detection_with_ui_lib.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/test_objects_detection_lib.dir
+/home/sylar/doppia/src/applications/objects_detection_lib/CMakeFiles/test_objects_detection_with_ui_lib.dir

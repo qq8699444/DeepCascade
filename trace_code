@@ -1,0 +1,7 @@
+invoke_integral_channels_detector_over_all_scales::compute
+doppia::objects_detection::integral_channels_detector_over_all_scales #3509
+integral_channels_detector_over_all_scales_impl_v2_xy_stride #2123
+integral_channels_detector_over_all_scales_kernel_v4_xy_stride
+compute_specific_detection #1744
+update_detection_score #327  evaluate current_score
+get_feature_value_tex2d #201 calculate local window feature value

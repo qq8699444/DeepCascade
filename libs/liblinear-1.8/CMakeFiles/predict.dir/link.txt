@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG    CMakeFiles/predict.dir/predict.c.o  -o predict -rdynamic liblinear.so libblas.so -Wl,-rpath,/home/sylar/doppia/libs/liblinear-1.8 
