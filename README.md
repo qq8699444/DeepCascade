@@ -1,3 +1,21 @@
+# DeepCascade implemented by Sylar #
+reference paper: [Real-Time Pedestrian Detection With Deep Network Cascades](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43850.pdf)
+
+The difference written by me is in 
+>src/objects_detection/GpuVeryFastIntegralChannelsDetector.cpp
+
+>src/objects_detection/GpuVeryFastIntegralChannelsDetector.hpp
+
+>src/applications/objects_detection_lib/objects_detection_lib.cpp
+
+>src/applications/objects_detection_lib/objects_detection_lib.hpp
+
+>src/applications/objects_detection_lib/TestObjectsDetectionApplication.cpp
+
+>src/applications/objects_detection_lib/TestObjectsDetectionApplication.hpp
+
+and so on, look for "sylar" to see my trace
+# Original Library: Rodrigo Benenson / doppia #
 This is [release v2](https://bitbucket.org/rodrigob/doppia/src/tip/?at=v2) of the doppia code, code should work, please report any issue.
 
      ____   __  ____  ____  __   __  
