@@ -1,1 +1,0 @@
-/home/sylar/doppia/src/applications/stixel_world/CMakeFiles/stixel_world.dir
